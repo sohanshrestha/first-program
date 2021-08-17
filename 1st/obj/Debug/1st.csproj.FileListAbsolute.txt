@@ -1,0 +1,12 @@
+C:\Users\sohan\Desktop\C#\1st\1st\bin\Debug\1st.exe.config
+C:\Users\sohan\Desktop\C#\1st\1st\bin\Debug\1st.exe
+C:\Users\sohan\Desktop\C#\1st\1st\bin\Debug\1st.pdb
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\1st.csproj.AssemblyReference.cache
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\_1st.Form1.resources
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\_1st.Properties.Resources.resources
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\1st.csproj.GenerateResource.cache
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\1st.csproj.CoreCompileInputs.cache
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\1st.exe
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\1st.pdb
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\_1st.Form2.resources
+C:\Users\sohan\Desktop\C#\1st\1st\obj\Debug\_1st.Form3.resources
